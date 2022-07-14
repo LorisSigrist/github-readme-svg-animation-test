@@ -1,4 +1,4 @@
-<svg height="300px" width="600px" viewBox="0 0 100 50">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="300px" width="600px" viewBox="0 0 100 50">
     <circle cx="50" cy="25" r="15" fill="hotpink" stroke="black" stroke-width="1">
     <animate
        attributeName="r" from="0" to="15"
