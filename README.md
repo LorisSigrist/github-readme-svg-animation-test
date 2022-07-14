@@ -6,5 +6,5 @@ Turns out, the answeri is yes! But, you must have the svg in a seperate file. Yo
 
 Put your animated svg into a seperate file and import it using
 ```markdown
-![alttext](relative/path/to/readme)
+![alttext](relative/path/from/readme/to/animation/)
 ```
